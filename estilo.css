@@ -52,11 +52,10 @@ main {
 .poema {
   padding: 0 2rem;
   font-family: cursive;
-  font-size: 5px;
 }
 
 footer {
-font-size: 5px;
+font-size: 1rem;
   width: 100%;
   background: black;
   height: auto;
